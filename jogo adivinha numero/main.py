@@ -25,4 +25,4 @@ while cont < chances:  # loop do jogo
         print('** Seu palpite foi muito alto')
 if cont > chances:
     print('** O número é: {x}')
-    print('** Melhor na proxima1')
+    print('** Melhor na proxima')
