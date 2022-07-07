@@ -37,4 +37,3 @@ while turnos > 0:
         print(f'Voçê tem {turnos} chances!')
         if turnos == 0:
             print(f'Voçê PERDEU')
-    pass
